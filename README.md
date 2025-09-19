@@ -8,10 +8,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 **Software Engineer** passionate about building impactful solutions.
-- 💡 Skilled in **React**, **Python**, **Node.js**, and **Flutter**.
-- 🛒 E-commerce project enthusiast—check out some of my favorites below!
-- 🚀 I like to code and try new things!
+- 🔭 **Software Engineer** dedicated to designing and building impactful solutions.  
+- 💡 Experienced with **React**, **Python**, **Node.js**, and **Flutter**, and always eager to expand my toolkit.  
+- 🚀 Passionate about solving problems, experimenting with new technologies, and continuously improving my craft.  
+- 🌍 I enjoy working on projects that make a real difference and contribute to meaningful outcomes.  
+
 
 ## 🚩 Featured Projects
 
