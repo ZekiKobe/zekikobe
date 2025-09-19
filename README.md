@@ -15,10 +15,9 @@
 
 ## 🚩 Featured Projects
 
-- [ABa_BI_admin](https://github.com/ZekiKobe/ABa_BI_admin)
-- [ABa_BI_frontend](https://github.com/ZekiKobe/ABa_BI_frontend)
+- [Ecommerce-admin](https://github.com/ZekiKobe/Ecommerce-admin.git)
 - [simple_ecommrce_website](https://github.com/ZekiKobe/simple_ecommrce_website)
-- [kraken-api](https://github.com/ZekiKobe/kraken-api)
+- [Time_series_forecasting_for_portfolio](https://github.com/ZekiKobe/Time_series_forecasting_for_portfolio.git)
 - [ECommerce-frontend](https://github.com/ZekiKobe/ECommerce-frontend)
 
 ## 🛠️ Tech Stack
