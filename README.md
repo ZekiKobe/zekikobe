@@ -24,30 +24,26 @@ I am a **Software Engineer** focused on building **robust, scalable, and user-ce
   Full-featured online shopping platform with product browsing, shopping cart, order processing, and secure payment integration. Built with React, Node.js, and PHP.  
   ![Live Project](https://img.shields.io/badge/Live-View%20Project-brightgreen)
 
-- **Ecommerce Admin Dashboard**  
-  Role-based admin system for managing products, orders, and users  
-  🔗 https://github.com/ZekiKobe/Ecommerce-admin.git
+- **[Live Streaming App](https://github.com/ZekiKobe/Live-Streaming-App.git)**  
+  Real-time video streaming platform supporting multiple users, chat integration, and smooth live broadcasting. Built using React, Node.js, and WebRTC.
 
-- **E-Commerce Web Application**  
-  End-to-end eCommerce solution with frontend and backend integration  
-  🔗 https://github.com/ZekiKobe/simple_ecommrce_website
+- **[Fraud Detection System](https://github.com/ZekiKobe/fraud_detection_project.git)**  
+  Machine learning-based system to detect fraudulent transactions and prevent financial losses. Developed with Python and popular ML libraries.
 
-- **Time Series Forecasting**  
-  Data-driven forecasting project using statistical and ML techniques  
-  🔗 https://github.com/ZekiKobe/Time_series_forecasting_for_portfolio.git
+- **[Clearance Management System](https://github.com/ZekiKobe/Clearance_amagement_system_HC.git)**  
+  Web application to automate clearance processes with department-wise approval workflow and digital signatures. Built using HTML, CSS, JavaScript, PHP, and MySQL.
 
-- **E-Commerce Frontend (React)**  
-  Modern, responsive frontend focused on UX and performance  
-  🔗 https://github.com/ZekiKobe/ECommerce-frontend
+- **[Web-based CV Analysis & Eligibility Prediction System](https://github.com/ZekiKobe/Web_based_CV_analysis_and_ellegibility_prediction_system_using_django.git)**  
+  Django-based platform for analyzing CVs and predicting candidate eligibility using AI techniques and automated scoring.
 
 ---
 
 ## 🛠️ Technical Expertise
 
 **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Responsive UI & component-based architecture  
-**Backend:** Node.js, PHP, Python, RESTful APIs, Server-side logic  
+**Backend:** Node.js, PHP, Python, Django, RESTful APIs, Server-side logic  
 **Mobile:** Flutter for cross-platform applications  
-**Other:** Git & GitHub, Database design & integration, Application debugging & optimization
+**Other:** Git & GitHub, Database design & integration, Application debugging & optimization, Machine Learning & AI
 
 ---
 
