@@ -1,40 +1,63 @@
-<h1 align="center">Hi there, I'm Zekarias 👋</h1>
+<h1 align="center">Hi, I'm Zekarias 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;React+%7C+Python+%7C+Node.js+%7C+Flutter;E-commerce+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Mobile+Solutions;React+%7C+Node.js+%7C+Python+%7C+Flutter;Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 **Software Engineer** dedicated to designing and building impactful solutions.  
-- 💡 Experienced with **React**, **Python**, **Node.js**, and **Flutter**, and always eager to expand my toolkit.  
-- 🚀 Passionate about solving problems, experimenting with new technologies, and continuously improving my craft.  
-- 🌍 I enjoy working on projects that make a real difference and contribute to meaningful outcomes.  
+I am a **Software Engineer** focused on building **robust, scalable, and user-centric applications**. I enjoy working across the full development lifecycle — from understanding requirements to delivering production-ready solutions.  
 
+- 🧠 Strong foundation in **application architecture, problem-solving, and system design**  
+- ⚙️ Hands-on experience with **React, Node.js, Python, and Flutter**  
+- 🚀 Proven ability to deliver **end-to-end solutions for real-world projects**  
+- 🔍 Passionate about **code quality, performance, and continuous improvement**  
+- 🌍 Motivated by building products that create measurable impact  
 
-## 🚩 Featured Projects
+---
 
-- [Ecommerce-admin](https://github.com/ZekiKobe/Ecommerce-admin.git)
-- [simple_ecommrce_website](https://github.com/ZekiKobe/simple_ecommrce_website)
-- [Time_series_forecasting_for_portfolio](https://github.com/ZekiKobe/Time_series_forecasting_for_portfolio.git)
-- [ECommerce-frontend](https://github.com/ZekiKobe/ECommerce-frontend)
+## 🚀 Selected Projects
 
-## 🛠️ Tech Stack
+- **[Simuni Mart eCommerce (Live)](https://simunimart.com)**  
+  Full-featured online shopping platform with product browsing, shopping cart, order processing, and secure payment integration. Built with React, Node.js, and PHP.  
+  ![Live Project](https://img.shields.io/badge/Live-View%20Project-brightgreen)
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
+- **Ecommerce Admin Dashboard**  
+  Role-based admin system for managing products, orders, and users  
+  🔗 https://github.com/ZekiKobe/Ecommerce-admin.git
+
+- **E-Commerce Web Application**  
+  End-to-end eCommerce solution with frontend and backend integration  
+  🔗 https://github.com/ZekiKobe/simple_ecommrce_website
+
+- **Time Series Forecasting**  
+  Data-driven forecasting project using statistical and ML techniques  
+  🔗 https://github.com/ZekiKobe/Time_series_forecasting_for_portfolio.git
+
+- **E-Commerce Frontend (React)**  
+  Modern, responsive frontend focused on UX and performance  
+  🔗 https://github.com/ZekiKobe/ECommerce-frontend
+
+---
+
+## 🛠️ Technical Expertise
+
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Responsive UI & component-based architecture  
+**Backend:** Node.js, PHP, Python, RESTful APIs, Server-side logic  
+**Mobile:** Flutter for cross-platform applications  
+**Other:** Git & GitHub, Database design & integration, Application debugging & optimization
+
+---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/zekarias-kobota-1695a0246/)
-[![Website](https://img.shields.io/badge/-Website-000?logo=google-chrome&logoColor=fff&style=flat-square)](https://zekarias-kobota.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/zekarias-kobota-1695a0246/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=fff&style=flat-square)](https://zekariaskobota-portfolio.netlify.app/)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZekiKobe&show_icons=true&theme=algolia" alt="ZekiKobe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZekiKobe&show_icons=true&theme=algolia" alt="Zekarias's GitHub stats" />
 </p>
