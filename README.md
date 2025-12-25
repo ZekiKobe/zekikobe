@@ -54,5 +54,4 @@ I am a **Software Engineer** focused on building **robust, scalable, and user-ce
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=zekikobe&show_icons=true&theme=algolia&cache_seconds=86400" />
 
