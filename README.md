@@ -45,7 +45,7 @@ I am a **Software Engineer** focused on building **robust, scalable, and user-ce
 
 **Full-featured online shopping platform** with product browsing, cart, order processing, and secure payments.
 
-* **Tech Stack:** React, Node.js, PHP, MySQL
+* **Tech Stack:** React, Node.js, Python(For scraping data from Telegram), MySQL
 * 🌐 **Live:** [https://simunimart.com](https://simunimart.com)
 
 ---
@@ -54,7 +54,7 @@ I am a **Software Engineer** focused on building **robust, scalable, and user-ce
 
 Real-time multi-user streaming platform with chat and smooth video broadcasting.
 
-* **Tech Stack:** React, Node.js, WebRTC
+* **Tech Stack:** React, Node.js, Flutter
 * 🔗 **Repo:** [https://github.com/ZekiKobe/Live-Streaming-App](https://github.com/ZekiKobe/Live-Streaming-App)
 
 ---
