@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Problem+Solver;Building+Scalable+Web+%26+Mobile+Solutions;React+%7C+Node.js+%7C+Python+%7C+Flutter;Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zekikobe&show_icons=true&theme=algolia&cache_seconds=86400" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekikobe&layout=compact&theme=algolia&cache_seconds=86400" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zekikobe&theme=algolia&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
